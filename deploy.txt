@@ -1,1 +1,5 @@
+# generate content
 pelican content
+
+# local server
+pelican --listen
