@@ -4,11 +4,14 @@ from __future__ import unicode_literals
 
 AUTHOR = 'montoyamoraga'
 SITENAME = 'texts'
-SITEURL = ''
+SITEURL = 'https://montoyamoraga.io/texts'
+TIMEZONE = 'US/Eastern'
+
+GITHUB_URL = "https://github.com/montoyamoraga/texts"
+
 
 PATH = 'content'
 
-TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'en'
 
