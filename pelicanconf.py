@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'montoyamoraga'
 SITENAME = 'texts'
 SITEURL = 'https://montoyamoraga.io/texts'
-THEME = './themeTest'
-# THEME = './theme'
+THEME = './theme'
 TIMEZONE = 'US/Eastern'
 
 
