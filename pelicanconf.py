@@ -7,14 +7,8 @@ SITENAME = 'texts'
 SITEURL = 'https://montoyamoraga.io/texts'
 THEME = './theme'
 TIMEZONE = 'US/Eastern'
-
-
 GITHUB_URL = "https://github.com/montoyamoraga/texts"
-
-
 PATH = 'content'
-
-
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
@@ -23,6 +17,10 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# example RSS
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
