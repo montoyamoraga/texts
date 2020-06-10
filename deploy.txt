@@ -3,3 +3,6 @@ pelican content
 
 # local server
 pelican --listen
+
+# from master branch, push the contents of output/ to gh-pages branch
+git subtree push --prefix output origin gh-pages
