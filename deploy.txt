@@ -5,7 +5,7 @@ pelican content
 pelican --listen
 
 # then publish
-# pelican content -s publishconf.py
+pelican content -s publishconf.py
 
 # from master branch, push the contents of output/ to gh-pages branch
 git subtree push --prefix output origin gh-pages
