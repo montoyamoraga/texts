@@ -1,8 +1,9 @@
-# MacOS 
+# Apple 
 .DS_Store
+
+# Pelican
+__pycache__
+output/
 
 # Python3 virtualenv
 env/
-
-# pelican
-__pycache__
