@@ -4,7 +4,7 @@ Modified: 2020-07-31 12:08
 Category: survey
 Tags: video, synthesizer
 Slug: survey-video-synthesizers
-Author: aarón montoya-moraga
+Author: montoyamoraga
 Translation: false
 Summary: Survey about video synthesizers
 

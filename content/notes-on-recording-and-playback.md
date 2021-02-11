@@ -1,6 +1,6 @@
 Title: notes on recording and playback
-Date: 2010-06-01 14:00
-Modified: 2010-06-01 14:00
+Date: 2020-06-01 14:00
+Modified: 2020-06-01 14:00
 Category: essays
 Tags: pelican, publishing
 Slug: notes-on-recording-and-playback
