@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>texts - survey</title><link href="https://montoyamoraga.io/texts/" rel="alternate"></link><link href="https://montoyamoraga.io/texts/feeds/survey.atom.xml" rel="self"></link><id>https://montoyamoraga.io/texts/</id><updated>2020-07-31T12:08:00-04:00</updated><entry><title>survey-video-synthesizers</title><link href="https://montoyamoraga.io/texts/survey-video-synthesizers.html" rel="alternate"></link><published>2020-07-31T12:08:00-04:00</published><updated>2020-07-31T12:08:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-07-31:/texts/survey-video-synthesizers.html</id><summary type="html">&lt;p&gt;Survey about video synthesizers&lt;/p&gt;</summary><content type="html">&lt;h1&gt;survey-video-synthesizers&lt;/h1&gt;
+&lt;p&gt;This is a survey of video synthesizers, indexed by their creators.&lt;/p&gt;
+&lt;h2&gt;Critter and Guitari&lt;/h2&gt;
+&lt;p&gt;Critter and Guitari has released several video synthesizers, including fixed behavior and scriptable synths.&lt;/p&gt;
+&lt;h3&gt;Video Scope synthesizers&lt;/h3&gt;
+&lt;p&gt;Video Scope synthesizers are fixed behavior synths.&lt;/p&gt;
+&lt;p&gt;There are 3 of these synths, and as of 2020, they are discontinued.&lt;/p&gt;
+&lt;p&gt;They have 2 knobs on the front panel:
+* Mode: left knob, selects video mode
+* Gain: right knob, controls audio gain&lt;/p&gt;
+&lt;p&gt;They have 3 connectors on their back:
+* Audio input: 1/4" TS mono audio cable.
+* Power input: 9V DC center-positive
+* Video output: composite NTSC format, RCA jack&lt;/p&gt;
+&lt;h4&gt;Rhythm Scope (2013)&lt;/h4&gt;
+&lt;p&gt;This synth reacts to rhythmic sounds, including short quick hits, arpeggios, etc.&lt;/p&gt;
+&lt;p&gt;This synth has 16 unique modes, plus a Random mode:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strobe&lt;/li&gt;
+&lt;li&gt;Two-Tone&lt;/li&gt;
+&lt;li&gt;Brackets&lt;/li&gt;
+&lt;li&gt;Square Slopes&lt;/li&gt;
+&lt;li&gt;Continous&lt;/li&gt;
+&lt;li&gt;Thick Neon&lt;/li&gt;
+&lt;li&gt;Containers&lt;/li&gt;
+&lt;li&gt;Blinds&lt;/li&gt;
+&lt;li&gt;Timer&lt;/li&gt;
+&lt;li&gt;Timer 2&lt;/li&gt;
+&lt;li&gt;Thin Neon&lt;/li&gt;
+&lt;li&gt;Solitary&lt;/li&gt;
+&lt;li&gt;Bits&lt;/li&gt;
+&lt;li&gt;Printer&lt;/li&gt;
+&lt;li&gt;Puzzle&lt;/li&gt;
+&lt;li&gt;Glyphs&lt;/li&gt;
+&lt;li&gt;Random&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Random mode switches every 1-16 beats. To set Randomization rate, set MODE knob to one mode for &amp;gt; 1 second and then set to Random.&lt;/p&gt;
+&lt;p&gt;The first unique mode (Strobe) makes Random switch every 16 beats, the next mode for 15, and so on.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/78059125"&gt;https://vimeo.com/78059125&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Videoscope (2013)&lt;/h4&gt;
+&lt;p&gt;This synth has 4 modes, with a control variable for each:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic line - Color&lt;/li&gt;
+&lt;li&gt;Color shifter - Speed&lt;/li&gt;
+&lt;li&gt;Trapezoid - Intensity&lt;/li&gt;
+&lt;li&gt;Random - Rate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Black and White Videoscope (2013)&lt;/h3&gt;
+&lt;p&gt;This synth has 16 modes, plus a Random mode:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strobe&lt;/li&gt;
+&lt;li&gt;Timer&lt;/li&gt;
+&lt;li&gt;Timer Two&lt;/li&gt;
+&lt;li&gt;Blinds&lt;/li&gt;
+&lt;li&gt;Brackets&lt;/li&gt;
+&lt;li&gt;Bits&lt;/li&gt;
+&lt;li&gt;Squares&lt;/li&gt;
+&lt;li&gt;Birds&lt;/li&gt;
+&lt;li&gt;Plaid&lt;/li&gt;
+&lt;li&gt;Paper&lt;/li&gt;
+&lt;li&gt;Many Lines&lt;/li&gt;
+&lt;li&gt;Wide Lines&lt;/li&gt;
+&lt;li&gt;Alternator&lt;/li&gt;
+&lt;li&gt;Zooming&lt;/li&gt;
+&lt;li&gt;10 Wide&lt;/li&gt;
+&lt;li&gt;1 Wide&lt;/li&gt;
+&lt;li&gt;Random&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Random mode switches every 1 frame - 30 seconds.&lt;/p&gt;
+&lt;p&gt;To set Randomization Rate, set the Mode knob to one position for 1 &amp;gt; second and then set to Random.&lt;/p&gt;
+&lt;p&gt;The first mode (Strobe) makes Random switch at the maximum 30 seconds, and each mode after that makes this shorter, down to the last mode (Wide) which makes Random switch every frame.&lt;/p&gt;
+&lt;h3&gt;Scriptable synths&lt;/h3&gt;
+&lt;p&gt;These synthesizers are Linux-based machines, running the Python library &lt;a href="https://en.wikipedia.org/wiki/Pygame"&gt;pygame&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;They output video over HDMI and you can write your own scripts and share with a wide community.&lt;/p&gt;
+&lt;h3&gt;ETC (2017)&lt;/h3&gt;
+&lt;p&gt;Currently discontinued.&lt;/p&gt;
+&lt;h3&gt;EYESY (2020)&lt;/h3&gt;
+&lt;p&gt;Released over Kickstarter&lt;/p&gt;
+&lt;p&gt;It includes a openFrameworks mode.&lt;/p&gt;</content><category term="survey"></category><category term="video"></category><category term="synthesizer"></category></entry></feed>
