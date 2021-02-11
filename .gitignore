@@ -3,7 +3,6 @@
 
 # Pelican
 __pycache__
-output/
 
 # Python3 virtualenv
 env/
