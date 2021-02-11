@@ -24,6 +24,7 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 # static paths
 STATIC_PATHS = ['extra', 'images']
+# STATIC_PATHS = ['images']
 
 # move extra/404.md to 404.md when copying to output
 EXTRA_PATH_METADATA = {'extra/404.md': {'path': '404.md'},}
@@ -32,6 +33,9 @@ EXTRA_PATH_METADATA = {'extra/404.md': {'path': '404.md'},}
 ARTICLE_EXCLUDES = ['extra']
 
 DEFAULT_PAGINATION = False
+
+# no author pages generated
+AUTHOR_SAVE_AS = ''
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
