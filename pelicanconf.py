@@ -25,6 +25,12 @@ CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 # static paths
 STATIC_PATHS = ['extra', 'images']
 
+# move extra/404.md to 404.md when copying to output
+EXTRA_PATH_METADATA = {'extra/404.md': {'path': '404.md'},}
+
+# not include these subdirectories on articles
+ARTICLE_EXCLUDES = ['extra']
+
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
         #  ('You can modify those links in your config file', '#'),)
