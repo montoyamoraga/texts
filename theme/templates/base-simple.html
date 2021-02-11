@@ -3,7 +3,6 @@
 <head>
         {% block head %}
         <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-       <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
         <meta charset="utf-8" />
         <meta name="generator" content="Pelican" />
         {% if FEED_ALL_ATOM %}
@@ -54,5 +53,11 @@
         </ul></nav><!-- /#menu -->
         {% block content %}
         {% endblock %}
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
 </body>
 </html>
