@@ -1,25 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>texts</title><link href="https://montoyamoraga.io/texts/" rel="alternate"></link><link href="https://montoyamoraga.io/texts/feeds/all.atom.xml" rel="self"></link><id>https://montoyamoraga.io/texts/</id><updated>2020-07-26T00:00:00-04:00</updated><entry><title>metaphor-bicycle-art</title><link href="https://montoyamoraga.io/texts/metaphor-bicycle-art.html" rel="alternate"></link><published>2020-07-26T00:00:00-04:00</published><updated>2020-07-26T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-07-26:/texts/metaphor-bicycle-art.html</id><content type="html">&lt;p&gt;i love riding my bicycle&lt;/p&gt;
-&lt;p&gt;you don't need to know the mechanics in order to enjoy riding it&lt;/p&gt;</content><category term="metaphor"></category></entry><entry><title>hello-world</title><link href="https://montoyamoraga.io/texts/hello-world.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/hello-world.html</id><content type="html">&lt;p&gt;"hello world"&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>making-of</title><link href="https://montoyamoraga.io/texts/making-of.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/making-of.html</id><content type="html">&lt;p&gt;this blog is made with &lt;a href="https://github.com/getpelican"&gt;Pelican&lt;/a&gt;.&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>notes on recording and playback</title><link href="https://montoyamoraga.io/texts/notes-on-recording-and-playback.html" rel="alternate"></link><published>2010-06-01T14:00:00-04:00</published><updated>2010-06-01T14:00:00-04:00</updated><author><name>aarón montoya-moraga</name></author><id>tag:montoyamoraga.io,2010-06-01:/texts/notes-on-recording-and-playback.html</id><summary type="html">&lt;p&gt;a brief history of recording and playback devices&lt;/p&gt;</summary><content type="html">&lt;p&gt;DRAFT&lt;/p&gt;
-&lt;p&gt;before 18xx, all we ever experienced was one-in-a-lifetime&lt;/p&gt;
-&lt;p&gt;spoiler: it is still the case&lt;/p&gt;
-&lt;p&gt;even if we are able to record in digital and then make sure that the playback is the same every time, it is done with screens, LEDs, speakers, which are always decaying and changing.&lt;/p&gt;
-&lt;p&gt;also our sensors, ears, eyes, brain, change and decay.&lt;/p&gt;
-&lt;p&gt;anyway&lt;/p&gt;
-&lt;p&gt;photography is a capture of the electromagnetic spectrum in a tiny slice of time&lt;/p&gt;
-&lt;p&gt;after photography we went for movies&lt;/p&gt;
-&lt;p&gt;movies are just many pictures at a certain frame rate&lt;/p&gt;
-&lt;p&gt;tape enabled people to record audio and then play it back&lt;/p&gt;
-&lt;p&gt;audio is a register of sound pressure over time&lt;/p&gt;
-&lt;p&gt;radio technology allowed us to share audio at great distances&lt;/p&gt;
-&lt;p&gt;now it's not &lt;/p&gt;
-&lt;p&gt;speed of sound is ~343 m/s and is temperature-dependent&lt;/p&gt;
-&lt;p&gt;speed of light is ~300,000 km/s and it is a constant&lt;/p&gt;
-&lt;p&gt;no such thing as instantaneous&lt;/p&gt;
-&lt;p&gt;then the tube was replaced with transistors made everything tinier&lt;/p&gt;
-&lt;p&gt;the walkman allowed us to be able to take a walk and listen to sound privately&lt;/p&gt;
-&lt;p&gt;boomboxes allowed us to share it with everyone&lt;/p&gt;
-&lt;p&gt;the flaming lips used cars as instruments in 1996-1997&lt;/p&gt;
-&lt;p&gt;photoshop was released in 1988 and you can alter pictures with it&lt;/p&gt;
-&lt;p&gt;the classic LMXX is a text-to-speech bot and it costs nowadays X USD&lt;/p&gt;
-&lt;p&gt;overdub, formerly lyrebird, is an artificial intelligence company that allows you to train an algorithm with your voice, and then use text-to-speech with your voice&lt;/p&gt;</content><category term="essays"></category><category term="pelican"></category><category term="publishing"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>texts</title><link href="https://montoyamoraga.io/texts/" rel="alternate"></link><link href="https://montoyamoraga.io/texts/feeds/all.atom.xml" rel="self"></link><id>https://montoyamoraga.io/texts/</id><updated>2021-02-11T12:44:26Z</updated></feed>
