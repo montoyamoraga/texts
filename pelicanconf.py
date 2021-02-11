@@ -23,8 +23,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/{slug}.rss.xml'
 
 # static paths
-STATIC_PATHS = ['extra/404.md']
-EXTRA_PATH_METADATA = {'extra/404.md': {'path': '404.md'},}
+STATIC_PATHS = ['extra', 'images']
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
