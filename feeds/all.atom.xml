@@ -8,17 +8,21 @@
 &lt;h3&gt;Video Scope synthesizers&lt;/h3&gt;
 &lt;p&gt;Video Scope synthesizers are fixed behavior synths.&lt;/p&gt;
 &lt;p&gt;There are 3 of these synths, and as of 2020, they are discontinued.&lt;/p&gt;
-&lt;p&gt;They have 2 knobs on the front panel:
-* Mode: left knob, selects video mode
-* Gain: right knob, controls audio gain&lt;/p&gt;
-&lt;p&gt;They have 3 connectors on their back:
-* Audio input: 1/4" TS mono audio cable.
-* Power input: 9V DC center-positive
-* Video output: composite NTSC format, RCA jack&lt;/p&gt;
+&lt;p&gt;They have 2 knobs on the front panel:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mode: left knob, selects video mode&lt;/li&gt;
+&lt;li&gt;Gain: right knob, controls audio gain&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;They have 3 connectors on their back:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Audio input: 1/4" TS mono audio cable.&lt;/li&gt;
+&lt;li&gt;Power input: 9V DC center-positive&lt;/li&gt;
+&lt;li&gt;Video output: composite NTSC format, RCA jack&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h4&gt;Rhythm Scope (2013)&lt;/h4&gt;
 &lt;p&gt;This synth reacts to rhythmic sounds, including short quick hits, arpeggios, etc.&lt;/p&gt;
 &lt;p&gt;This synth has 16 unique modes, plus a Random mode:&lt;/p&gt;
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Strobe&lt;/li&gt;
 &lt;li&gt;Two-Tone&lt;/li&gt;
 &lt;li&gt;Brackets&lt;/li&gt;
@@ -36,7 +40,7 @@
 &lt;li&gt;Puzzle&lt;/li&gt;
 &lt;li&gt;Glyphs&lt;/li&gt;
 &lt;li&gt;Random&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 &lt;p&gt;Random mode switches every 1-16 beats. To set Randomization rate, set MODE knob to one mode for &amp;gt; 1 second and then set to Random.&lt;/p&gt;
 &lt;p&gt;The first unique mode (Strobe) makes Random switch every 16 beats, the next mode for 15, and so on.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/78059125"&gt;https://vimeo.com/78059125&lt;/a&gt;&lt;/p&gt;
@@ -50,7 +54,7 @@
 &lt;/ul&gt;
 &lt;h3&gt;Black and White Videoscope (2013)&lt;/h3&gt;
 &lt;p&gt;This synth has 16 modes, plus a Random mode:&lt;/p&gt;
-&lt;ol&gt;
+&lt;ul&gt;
 &lt;li&gt;Strobe&lt;/li&gt;
 &lt;li&gt;Timer&lt;/li&gt;
 &lt;li&gt;Timer Two&lt;/li&gt;
@@ -68,7 +72,7 @@
 &lt;li&gt;10 Wide&lt;/li&gt;
 &lt;li&gt;1 Wide&lt;/li&gt;
 &lt;li&gt;Random&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 &lt;p&gt;Random mode switches every 1 frame - 30 seconds.&lt;/p&gt;
 &lt;p&gt;To set Randomization Rate, set the Mode knob to one position for 1 &amp;gt; second and then set to Random.&lt;/p&gt;
 &lt;p&gt;The first mode (Strobe) makes Random switch at the maximum 30 seconds, and each mode after that makes this shorter, down to the last mode (Wide) which makes Random switch every frame.&lt;/p&gt;
@@ -79,7 +83,15 @@
 &lt;p&gt;Currently discontinued.&lt;/p&gt;
 &lt;h3&gt;EYESY (2020)&lt;/h3&gt;
 &lt;p&gt;Released over Kickstarter&lt;/p&gt;
-&lt;p&gt;It includes a openFrameworks mode.&lt;/p&gt;</content><category term="survey"></category><category term="video"></category><category term="synthesizer"></category></entry><entry><title>bicycle-art</title><link href="https://montoyamoraga.io/texts/bicycle-art.html" rel="alternate"></link><published>2020-07-26T00:00:00-04:00</published><updated>2020-07-26T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-07-26:/texts/bicycle-art.html</id><summary type="html">&lt;p&gt;i love riding my bicycle&lt;/p&gt;
+&lt;p&gt;It outputs video in the following ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NTSC (Composite video out jack)&lt;/li&gt;
+&lt;li&gt;PAL (Composite video out jack)&lt;/li&gt;
+&lt;li&gt;720p (HDMI video out jack)&lt;/li&gt;
+&lt;li&gt;1080p (HDMI video out jack)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is built using a Raspberry Pi Compute Module 3, and features a 1.2 GHz processor and 1 GB RAM.&lt;/p&gt;
+&lt;p&gt;It includes an openFrameworks mode.&lt;/p&gt;</content><category term="survey"></category><category term="video"></category><category term="synthesizer"></category></entry><entry><title>bicycle-art</title><link href="https://montoyamoraga.io/texts/bicycle-art.html" rel="alternate"></link><published>2020-07-26T00:00:00-04:00</published><updated>2020-07-26T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-07-26:/texts/bicycle-art.html</id><summary type="html">&lt;p&gt;i love riding my bicycle&lt;/p&gt;
 &lt;p&gt;you don't need to know the mechanics in order to enjoy riding it&lt;/p&gt;
 &lt;p&gt;you can take it easy, you can sweat&lt;/p&gt;
 &lt;p&gt;the bicycle doesn't have a backdoor where someone could spy on me, or brick it, or is collecting data about my whereabouts&lt;/p&gt;
@@ -93,7 +105,9 @@
 &lt;ul&gt;
 &lt;li&gt;a list&lt;/li&gt;
 &lt;li&gt;of things&lt;/li&gt;
-&lt;/ul&gt;</content><category term="tutorial"></category><category term="tutorial"></category><category term="protocol"></category><category term="computer music"></category><category term="MIDI"></category></entry><entry><title>hello-world</title><link href="https://montoyamoraga.io/texts/hello-world.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/hello-world.html</id><content type="html">&lt;p&gt;"hello world"&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>making-of</title><link href="https://montoyamoraga.io/texts/making-of.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/making-of.html</id><content type="html">&lt;p&gt;this blog is made with &lt;a href="https://github.com/getpelican"&gt;Pelican&lt;/a&gt;.&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>essay-on-recording-and-playback</title><link href="https://montoyamoraga.io/texts/notes-on-recording-and-playback.html" rel="alternate"></link><published>2020-06-01T14:00:00-04:00</published><updated>2020-06-01T14:00:00-04:00</updated><author><name>aarón montoya-moraga</name></author><id>tag:montoyamoraga.io,2020-06-01:/texts/notes-on-recording-and-playback.html</id><summary type="html">&lt;p&gt;a brief history of recording and playback devices&lt;/p&gt;</summary><content type="html">&lt;p&gt;DRAFT&lt;/p&gt;
+&lt;/ul&gt;</content><category term="tutorial"></category><category term="tutorial"></category><category term="protocol"></category><category term="computer music"></category><category term="MIDI"></category></entry><entry><title>hello-world</title><link href="https://montoyamoraga.io/texts/hello-world.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/hello-world.html</id><content type="html">&lt;p&gt;"hello world"&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>making-of</title><link href="https://montoyamoraga.io/texts/making-of.html" rel="alternate"></link><published>2020-06-10T00:00:00-04:00</published><updated>2020-06-10T00:00:00-04:00</updated><author><name>montoyamoraga</name></author><id>tag:montoyamoraga.io,2020-06-10:/texts/making-of.html</id><content type="html">&lt;p&gt;this website is made with &lt;a href="https://github.com/getpelican"&gt;Pelican&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;it is written using Markdown.&lt;/p&gt;
+&lt;p&gt;it is deployed using GitHub Pages.&lt;/p&gt;</content><category term="meta"></category></entry><entry><title>recording-and-playback</title><link href="https://montoyamoraga.io/texts/notes-on-recording-and-playback.html" rel="alternate"></link><published>2020-06-01T14:00:00-04:00</published><updated>2020-06-01T14:00:00-04:00</updated><author><name>aarón montoya-moraga</name></author><id>tag:montoyamoraga.io,2020-06-01:/texts/notes-on-recording-and-playback.html</id><summary type="html">&lt;p&gt;a brief history of recording and playback devices&lt;/p&gt;</summary><content type="html">&lt;p&gt;DRAFT&lt;/p&gt;
 &lt;p&gt;before 18xx, all we ever experienced was one-in-a-lifetime&lt;/p&gt;
 &lt;p&gt;spoiler: it is still the case&lt;/p&gt;
 &lt;p&gt;even if we are able to record in digital and then make sure that the playback is the same every time, it is done with screens, LEDs, speakers, which are always decaying and changing.&lt;/p&gt;
