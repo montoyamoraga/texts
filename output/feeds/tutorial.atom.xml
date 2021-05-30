@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>texts - tutorial</title><link href="https://montoyamoraga.io/texts/" rel="alternate"></link><link href="https://montoyamoraga.io/texts/feeds/tutorial.atom.xml" rel="self"></link><id>https://montoyamoraga.io/texts/</id><updated>2020-06-13T18:22:00-04:00</updated><entry><title>tutorial-midi</title><link href="https://montoyamoraga.io/texts/tutorial-midi.html" rel="alternate"></link><published>2020-06-13T18:22:00-04:00</published><updated>2020-06-13T18:22:00-04:00</updated><author><name>aarón montoya-moraga</name></author><id>tag:montoyamoraga.io,2020-06-13:/texts/tutorial-midi.html</id><summary type="html">&lt;p&gt;Tutorial about the MIDI protocol&lt;/p&gt;</summary><content type="html">&lt;h1&gt;tutorial - MIDI&lt;/h1&gt;
+&lt;h2&gt;This is a subtitle&lt;/h2&gt;
+&lt;h3&gt;This is another one&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;a list&lt;/li&gt;
+&lt;li&gt;of things&lt;/li&gt;
+&lt;/ul&gt;</content><category term="tutorial"></category><category term="tutorial"></category><category term="protocol"></category><category term="computer music"></category><category term="MIDI"></category></entry></feed>
