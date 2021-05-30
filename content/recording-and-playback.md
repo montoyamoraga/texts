@@ -1,4 +1,4 @@
-Title: essay-on-recording-and-playback
+Title: recording-and-playback
 Date: 2020-06-01 14:00
 Modified: 2020-06-01 14:00
 Category: essay
