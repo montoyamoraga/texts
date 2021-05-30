@@ -23,10 +23,12 @@ Video Scope synthesizers are fixed behavior synths.
 There are 3 of these synths, and as of 2020, they are discontinued.
 
 They have 2 knobs on the front panel:
+
 * Mode: left knob, selects video mode
 * Gain: right knob, controls audio gain
 
 They have 3 connectors on their back:
+
 * Audio input: 1/4" TS mono audio cable.
 * Power input: 9V DC center-positive
 * Video output: composite NTSC format, RCA jack
@@ -37,7 +39,7 @@ This synth reacts to rhythmic sounds, including short quick hits, arpeggios, etc
 
 This synth has 16 unique modes, plus a Random mode:
 
-1. Strobe
+* Strobe
 * Two-Tone
 * Brackets
 * Square Slopes
@@ -59,9 +61,7 @@ Random mode switches every 1-16 beats. To set Randomization rate, set MODE knob 
 
 The first unique mode (Strobe) makes Random switch every 16 beats, the next mode for 15, and so on.
 
-
 [https://vimeo.com/78059125](https://vimeo.com/78059125)
-
 
 #### Videoscope (2013)
 
@@ -76,7 +76,7 @@ This synth has 4 modes, with a control variable for each:
 
 This synth has 16 modes, plus a Random mode:
 
-1. Strobe
+* Strobe
 * Timer
 * Timer Two
 * Blinds
