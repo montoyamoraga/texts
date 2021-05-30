@@ -1,7 +1,7 @@
 Title: notes on recording and playback
 Date: 2020-06-01 14:00
 Modified: 2020-06-01 14:00
-Category: essays
+Category: essay
 Tags: pelican, publishing
 Slug: notes-on-recording-and-playback
 Authors: aarón montoya-moraga
