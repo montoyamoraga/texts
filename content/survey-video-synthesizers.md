@@ -114,4 +114,13 @@ Currently discontinued.
 
 Released over Kickstarter
 
-It includes a openFrameworks mode.
+It outputs video in the following ways:
+
+* NTSC (Composite video out jack)
+* PAL (Composite video out jack)
+* 720p (HDMI video out jack)
+* 1080p (HDMI video out jack)
+
+It is built using a Raspberry Pi Compute Module 3, and features a 1.2 GHz processor and 1 GB RAM.
+
+It includes an openFrameworks mode.
