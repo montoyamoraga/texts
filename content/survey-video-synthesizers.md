@@ -1,9 +1,9 @@
-Title: survey-video-synthesizers
+Title: video-synthesizers
 Date: 2020-07-31 12:08
 Modified: 2020-07-31 12:08
 Category: survey
 Tags: video, synthesizer
-Slug: survey-video-synthesizers
+Slug: video-synthesizers
 Author: montoyamoraga
 Translation: false
 Summary: Survey about video synthesizers
