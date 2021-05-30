@@ -1,4 +1,4 @@
-Title: essay-thresholds
+Title: thresholds
 Date: 2021-05-30
 Category: essay
 
